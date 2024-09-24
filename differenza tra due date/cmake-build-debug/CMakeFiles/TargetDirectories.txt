@@ -1,0 +1,3 @@
+C:/Users/PC/CLionProjects/differenza tra due date/cmake-build-debug/CMakeFiles/differenza_tra_due_date.dir
+C:/Users/PC/CLionProjects/differenza tra due date/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/PC/CLionProjects/differenza tra due date/cmake-build-debug/CMakeFiles/rebuild_cache.dir
